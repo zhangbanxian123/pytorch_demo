@@ -1,0 +1,2 @@
+# pytorch_demo
+根据斯坦福大学一个pytorch项目修改的图像分类模板
