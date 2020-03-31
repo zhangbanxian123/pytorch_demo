@@ -1,6 +1,6 @@
 # pytorch_demo
 
-根据斯坦福大学一个pytorch项目修改的图像分类模板
+根据斯坦福大学一个pytorch项目修改的图像分类模板，
 ## 库安装
 pip install -r requirements.txt
 
@@ -24,5 +24,5 @@ SIGNS/
 python train.py
 ## 测试模型
 python evaluate.py  
-若要使用预训练模型，可以从[这里下载](https://pan.baidu.com/s/1IVCPVKElIcXJK7RNT2VITQ) 
+若要使用预训练模型，可以从[这里下载](https://pan.baidu.com/s/1H8TsHbxy5r_r2_3gaXubyw) 提取码：0jj2  
 并将它放在checkpoint文件夹下
