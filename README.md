@@ -1,6 +1,6 @@
 # pytorch_demo
 
-根据斯坦福大学一个pytorch项目修改的图像分类模板，
+根据斯坦福大学一个pytorch项目修改的图像分类模板，其中大部分代码都做了注释，简单易懂，可以根据你的需要随时更改任意代码。
 ## 库安装
 pip install -r requirements.txt
 
