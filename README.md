@@ -23,6 +23,6 @@ SIGNS/
 ## 开始训练
 python train.py
 ## 测试模型
-python evaluate.py 
+python evaluate.py  
 若要使用预训练模型，可以从[这里下载](https://pan.baidu.com/s/1IVCPVKElIcXJK7RNT2VITQ) 
 并将它放在checkpoint文件夹下
